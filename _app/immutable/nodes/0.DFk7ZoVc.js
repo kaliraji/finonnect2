@@ -1,1 +1,0 @@
-import{d as s,a as f}from"../chunks/BrgMb4It.js";import{d as i,a2 as p,y as c,a4 as d,M as m,h,v as l,f as v}from"../chunks/BiDToJEz.js";function _(t,e,...a){var n=t,o=d,r;i(()=>{o!==(o=e())&&(r&&(m(r),r=null),r=c(()=>o(n,...a)))},p),h&&(n=l)}function E(t,e){var a=s(),n=v(a);_(n,()=>e.children),f(t,a)}export{E as component};
